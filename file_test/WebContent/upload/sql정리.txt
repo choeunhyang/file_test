@@ -1,0 +1,15 @@
+sql 정리합시다!
+DDL - 데이터베이스 설계
+파일생성 creat 삭제 drap 수정 arter 
+DML
+insert delete update 
+DCL
+
+* == 애스터리스크
+
+in(2,54,5,30,1) 포함된거 뽑기
+uiName as t1 이런식으로 이름변환?? 아니 별명같은거 만듬
+
+=연산자로 null 검색 못함.
+is null을 사용함
+is not null 
